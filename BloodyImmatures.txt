@@ -1,2 +1,7 @@
 Does pineapple significantly extend the average duration of marriages? A randomized clinical study.
+Author: The Chemist
 Let's see if we create a mayhem.
+=======
+
+Author: The Chemist
+>>>>>>> 69cb26cb7229ca8003c3ad207e0a54ba0d4ecd95
